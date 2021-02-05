@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ng-blog"
+    }
+  },
+  "defaultProject": "ng-blog",
+  "cli": {
+    "analytics": "f0f10c6b-be64-4d25-9d01-43b8d08a88e0"
+  }
 }
